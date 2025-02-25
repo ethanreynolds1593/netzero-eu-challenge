@@ -24,19 +24,29 @@ The following building elements have the greatest impact on energy consumption, 
 - 🏗 **Roof Insulation (U-value)** – A poorly insulated roof can cause up to 25% of a home’s total heat loss.
 - ⚡ **Heating System Efficiency** – An efficient system can reduce energy use by up to 30%.
 
-## 📊 Data **Visualizations**
+## 📊 Data Visualizations
 
 Below are key visualizations that summarize the findings and help illustrate the most impactful renovation measures.
 
-**Chart 1**: Energy Savings vs. Cost per Renovation Measure  
-*Description: This chart shows the energy savings in kWh/m² compared to the cost per unit for each renovation measure.*
+**Chart 1**: Apartments vs. Detached Houses CO₂ Emissions
+*Description: Compares the carbon footprint of apartments and detached houses, highlighting how housing type impacts emissions.*
 
-![Energy Savings vs. Cost](energy_savings_cost.png)
+![Apartments vs. Detached Houses CO₂ Emissions](https://res.cloudinary.com/dboamlul8/image/upload/v1740487359/window_size_energy_efficiency_d9vyrt.png)
 
-**Chart 2**: Cost Savings per Investment Dollar  
-*Description: This graph illustrates the energy cost savings per dollar invested in each renovation type.*
+**Chart 2**: Insulation Type vs. Energy Rating
+*Description: This chart examines how different insulation types impact a building’s energy rating. Higher-quality insulation correlates with better energy efficiency ratings.*
 
-![Cost Savings per Investment Dollar](cost_savings_investment.png)
+![Insulation Type vs. Energy Rating](https://res.cloudinary.com/dboamlul8/image/upload/v1740487358/insulation_type_berrating_yhosvj.png)
+
+**Chart 3**: Larger Walls & Energy Loss
+*Description: Buildings with larger external walls tend to lose more energy, leading to higher heating demands. Improving insulation and sealing gaps can mitigate this effect.*
+
+![Larger Walls & Energy Loss](https://res.cloudinary.com/dboamlul8/image/upload/v1740487359/larger_walls_energy_loss_iengkh.png)
+
+**Chart 4**: Most Energy Used for Heating
+*Description: The majority of a building’s energy consumption is allocated to heating, highlighting the importance of efficient heating systems and insulation to reduce energy costs.*
+
+![Most Energy Used for Heating](https://res.cloudinary.com/dboamlul8/image/upload/v1740487359/most_energy_used_for_heating_hsauen.png)
 
 ## 🧐 In-depth Analysis
 
